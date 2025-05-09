@@ -1,0 +1,42 @@
+<h3>Timeline</h3>
+          <ul>
+            <li>
+              PierLuigi nasceu em Bolonha, na Itália em 29 de Janeiro de 1943.
+            </li>
+            <li>Emigrou para o Brasil no ano de 1954.</li>
+            <li>
+
+              Durante a Juventude trabalhou como garçom, confeiteiro, motorista
+              de caminhão, topógrafo e tratorista.
+
+
+            </li>
+            <li>
+              Na década de 1960 formou-se em Química Industrial pela Escola
+              Técnica Oswaldo Cruz (ETOC).
+
+
+
+            </li>
+            <li>
+              Em seguida iniciou fisica na Universidade Presbiteriana Mackenzie,
+              mas conclui na Universidade de Sao Paulo (USP).
+            </li>
+
+
+            
+            <li>
+              Em 1980, tornou-se membro da Sociedade de alto QI Mensa
+              Internacional e descobriu sua paixão pelo ensino. Aparti de entao
+              passou a dedicar-se a lecionar principalmente em cursinhos,
+              acumulando, ao longo dos ano, cerca de 100 mil alunos. Entres
+              estes alunos, alguns famosos como o ex-governador paulista José
+              Serra e o ator global Antonio Fagundes.
+            </li>
+            <li>
+              Fazia duras criticas ao metodo de Paulo Freire, em 2014 afirmou em
+              palestra que o sistema educacional brasileiro faz descer a escada
+              da inteligencia. Qualquer pedagogia baseada em Vygotsky, Piaget e
+              Paulo Freire é uma desgraça
+            </li>
+          </ul>

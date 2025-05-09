@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Times, serif;
+  background-color: #b8b8b8ae;
+}
+
+#titulo {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+#imagem {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+}
+.frase {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#timeline {
+  margin: 10px;
+  background-color: #e4e4e4a2;
+  padding: 5px;
+}
+#titulo_timeline {
+  background-color: #2e2e2e9f;
+  padding: 5px;
+  color: white;
+}
+fieldset {
+  padding: 10px;
+  margin: 10px;
+}
+legend {
+  background-color: #2e2e2e9f;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.livro1 {
+  background-color: #1d1d6294;
+}
+.livro2 {
+  background-color: #23621d94;
+}
